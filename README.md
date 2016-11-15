@@ -14,6 +14,7 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.1.png)
 
 
 ## การวาดเส้นตรงด้วย pen style และ brush
@@ -22,6 +23,8 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
 
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.2.png)
+
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
 * [LineCap Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.linecap(v=vs.110).aspx)
@@ -29,6 +32,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
 
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.3.png)
 
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
@@ -36,21 +40,28 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
 
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.4.png)
+
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
+
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.5.png)
 
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.6.png)
+
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
-
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.7.png)
 
 ## การวาดวงกลมและวงรี
 วงรีต่างจากวงกลมตรงที่เส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนจะไม่เท่ากัน ในภาษาโปรแกรมส่วนใหญ่จะมีเฉพาะฟังก์ชันวาดวงรี ถ้าต้องการวาดวงกลม ให้กำหนดเส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนให้เท่ากัน
@@ -58,22 +69,33 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
 
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.8.png)
+
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.9.png)
+
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
+
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.10png.png)
 
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
 
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.11png.png)
+
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
+
+![](https://raw.githubusercontent.com/apiradee39/LAB-10/6cf2b3c1796c8abcb2964c9abe9b0ab0766dd05c/10.12png.png)
 
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
